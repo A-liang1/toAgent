@@ -4,3 +4,4 @@ node_modules/
 demo/
 hello-nest-langchain/dist/
 cron-job-tool/dist/
+es-test/volumes/
