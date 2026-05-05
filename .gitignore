@@ -3,3 +3,4 @@ node_modules/
 .DS_Store
 demo/
 hello-nest-langchain/dist/
+cron-job-tool/dist/
